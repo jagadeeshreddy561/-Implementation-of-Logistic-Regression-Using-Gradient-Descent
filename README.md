@@ -39,11 +39,9 @@ step 14: Print Results: Print the predictions and the actual values (Y) for comp
 step 15: Stop. 
 
 ## Program:
+## Developed by: Mallu Jagadeeswar Reddy
+## RegisterNumber: 212222240059
 ```
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Mallu Jagadeeswar Reddy
-RegisterNumber: 212222240059
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -109,8 +107,8 @@ print(y_prednew)
 xnew = np.array([[ 0, 0, 0, 0, 0, 2, 8, 2, 0, 0 ,1, 0]])
 y_prednew = predict(theta,xnew)
 print(y_prednew)
-```
 
+```
 ## Output:
 ### dataset:
 ![ml ex 5-1](https://github.com/Gopika-9266/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122762773/c463a180-386a-4ca9-bcc4-c2b33c062a8d)
