@@ -8,7 +8,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
- step 1: Start
+```
+step 1: Start the program
 
 step 2: Import Libraries: Import the necessary libraries - pandas, numpy, and matplotlib.pyplot.
 
@@ -36,8 +37,8 @@ step 13: Predict placement status for a new student with given feature values (x
 
 step 14: Print Results: Print the predictions and the actual values (Y) for comparison.
 
-step 15: Stop. 
-
+step 15: End the program. 
+```
 ## Program:
 ## Developed by: Mallu Jagadeeswar Reddy
 ## RegisterNumber: 212222240059
